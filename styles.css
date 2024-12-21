@@ -1,0 +1,156 @@
+/* * {
+    border: 1px dashed red;
+    min-height: 10px;
+} */
+
+body {
+    background-color: lightgray;
+    margin: 0;
+}
+
+.head-title {
+    width: auto;
+    height: 50px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 10px; ;
+    text-align: center;
+}
+
+
+
+.first-post{
+
+    width: 400px;
+    height: 400px;
+    margin:auto;
+    background-color: white;
+
+}
+
+ h2 {
+    margin:5px
+}
+
+.first-post-header {
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    
+    
+}
+
+ img {
+
+    width: 400px;
+    height: 100px%;
+    object-fit: contain;
+
+} 
+
+.first-post-caption {
+    font-size: small;
+    height: 20px;
+    background-color: white;
+    margin:5px;
+    
+}
+
+
+.second-post{
+
+    width: 400px;
+    height: 400px;
+    margin:auto;
+    background-color: white;
+
+}
+
+.second-post-header {
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    
+    
+}
+
+.second-post-caption {
+    font-size: small;
+    height: 40px;
+    background-color: white;
+    margin:5px;
+    
+}
+
+.hashtag {
+    font-weight: bold;
+}
+
+
+
+.third-post{
+
+    width: 400px;
+    height: 400px;
+    margin:auto;
+    background-color: white;
+
+}
+
+.third-post-header {
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    
+    
+}
+
+.third-post-caption {
+    font-size: small;
+    height: 40px;
+    background-color: white;
+    margin:5px;
+    
+}
+
+
+.fourth-post{
+
+    width: 400px;
+    height: 400px;
+    margin:auto;
+    background-color: white;
+
+}
+
+.fourth-post-header {
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    
+    
+}
+
+.fourth-post-caption {
+    font-size: small;
+    height: 40px;
+    background-color: white;
+    margin:5px;
+    
+}
